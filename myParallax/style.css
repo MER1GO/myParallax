@@ -1,0 +1,5 @@
+.parallax{
+	min-height: 300px;
+	position: relative;
+	overflow: hidden;
+}
